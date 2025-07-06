@@ -1,3 +1,4 @@
+//  This file implements the Firestore service for managing notes in a Flutter app using Firebase
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import '../models/note_model.dart';
