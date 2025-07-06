@@ -1,3 +1,4 @@
+// This file implements the authentication screen for a Flutter notes app using Firebase Authentication
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/auth_provider.dart';
