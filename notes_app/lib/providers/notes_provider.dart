@@ -1,3 +1,5 @@
+// notes provider for a Flutter notes app using Cloud Firestore
+
 import 'package:flutter/material.dart';
 import '../models/note_model.dart';
 import '../services/firestore_service.dart';
