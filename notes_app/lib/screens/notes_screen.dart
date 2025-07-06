@@ -1,3 +1,4 @@
+// screen for displaying and managing notes in a Flutter app using Firebase
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import '../providers/auth_provider.dart';
