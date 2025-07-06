@@ -1,3 +1,4 @@
+// card for displaying notes in a Flutter app
 import 'package:flutter/material.dart';
 import '../models/note_model.dart';
 
