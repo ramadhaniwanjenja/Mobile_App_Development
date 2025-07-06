@@ -1,3 +1,4 @@
+// This file defines the Note model used in the application.
 class Note {
   final String id;
   final String text;
