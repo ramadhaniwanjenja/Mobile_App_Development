@@ -1,3 +1,4 @@
+// auth service for a Flutter notes app using Firebase Authentication
 import 'package:firebase_auth/firebase_auth.dart';
 
 class AuthService {
