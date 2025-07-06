@@ -1,3 +1,4 @@
+// dialog for adding and editing notes in a Flutter app
 import 'package:flutter/material.dart';
 
 class NoteDialog extends StatefulWidget {
