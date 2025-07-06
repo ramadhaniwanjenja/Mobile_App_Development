@@ -12,9 +12,7 @@ A simple and clean note-taking app built with Flutter and Firebase. Users can cr
 - ☁️ **Cloud Sync** - Notes are stored in Firebase Firestore
 - 🔄 **Real-time Updates** - Changes sync automatically
 
-## Screenshots
 
-*Add your app screenshots here*
 
 ## Getting Started
 
@@ -109,5 +107,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - your.email@example.com
-Project Link: [https://github.com/yourusername/notes_app](https://github.com/yourusername/notes_app)
+Your Name - r.wanjenja@alustudent.com
+Project Link: [https://github.com/ramadhaniwanjenja/Mobile_App_Development/tree/main/notes_app](https://github.com/ramadhaniwanjenja/Mobile_App_Development/tree/main/notes_app)
