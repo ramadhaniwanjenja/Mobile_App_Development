@@ -13,11 +13,11 @@ A Flutter application demonstrating the implementation and usage of the SimpleDi
 ## Screenshots
 
 ### Main Screen
-![Main Screen](screenshot1.png)
+![Main Screen](lib/images/screenshot1.png)
 *The main application screen with the "Show Dialog" button*
 
 ### Dialog Display
-![Dialog Display](screenshot2.png)
+![Dialog Display](lib/images/screenshot2.png)
 *The SimpleDialog widget showing available options*
 
 ## Code Structure
